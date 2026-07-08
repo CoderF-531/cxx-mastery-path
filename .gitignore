@@ -1,0 +1,17 @@
+# Build outputs
+*.exe
+*.obj
+*.o
+*.dll
+*.lib
+*.a
+
+# IDE and local build directories
+.vs/
+build/
+out/
+cmake-build-*/
+
+# Logs and temporary files
+*.log
+*.tmp
