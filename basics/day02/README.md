@@ -5,8 +5,8 @@
 你需要先阅读学习规划中的知识文档：
 
 ```text
-C:\Users\fly\Desktop\学习规划\01-科目\C++\02-知识文档\2026-07-09-引用const函数重载与类接口.md
-C:\Users\fly\Desktop\学习规划\01-科目\C++\03-面试八股\2026-07-09-面试八股重点.md
+C:\Users\fly\Desktop\学习规划\01-科目\C++\10-每日学习\day02-2026-07-09-引用const函数重载\知识文档.md
+C:\Users\fly\Desktop\学习规划\01-科目\C++\10-每日学习\day02-2026-07-09-引用const函数重载\面试八股.md
 ```
 
 ## 示例代码
@@ -116,6 +116,6 @@ basics/day02/practice_overload.cpp
 
 ```powershell
 git add basics/day02
-git commit -m "basics: complete day 02 references and const"
+git commit -m "基础：完成第 2 天引用与 const 练习"
 git push
 ```
